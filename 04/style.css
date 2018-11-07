@@ -1,0 +1,12 @@
+
+html body {
+	margin: 20px;
+}
+.seccion {
+	background-color: #b0ccab;
+	padding: 50px; 
+}
+
+#parrafo2 {
+	padding: left: 40px; 
+}
