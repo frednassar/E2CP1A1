@@ -1,0 +1,86 @@
+
+html, body { margin: 0; }
+
+.elem {
+	height: 150px;
+	width: 250px;
+	border: 1px solid black;
+	margin-left: 15px;
+	margin-bottom: 25px;
+	float: left;
+}
+.bandera1 {
+	background-color: red;
+}
+.bandera2 {
+	background-color: red;
+}
+.bandera3 {
+	background-color: red;
+}
+.bandera4 {
+	background-color: white;
+}
+#españa {
+	position: relative;
+    z-index: 1;
+    background-color: yellow;
+    top: 45px;
+    width: 250px;
+    height: 60px;
+}
+#dina1 {
+	position: relative; 
+	z-index: 1;
+    background-color: white;
+    top: 65px; 
+    width: 250px;
+    height: 15px;
+ }
+#dina2 {
+	position: relative; 
+	z-index: 1;
+    background-color: white;
+    left: 65px;
+    top: -15px;
+    width: 15px;
+    height: 150px;
+}
+#emi1 {
+	position: relative;
+    z-index: 1;
+    background-color: green;
+    top: 0px;
+    left: 55px;
+    width: 195px;
+    height: 50px;
+}
+#emi2 {
+	position: relative;
+    z-index: 1;
+    background-color: white;
+    top: 0px;
+    left: 55px;
+    width: 195px;
+    height: 50px;
+    }
+#emi3 {
+	position: relative;
+    z-index: 1;
+    background-color: black;
+    top: 0px;
+    left: 55px;
+    width: 195px;
+    height: 50px;
+    }
+#jpn {
+	position: relative;
+    z-index: 1;
+    background-color: red;
+    border-radius: 50%;
+    top: 23%;
+    left: 35%;
+    width: 27%;
+    height: 50%;
+    }
+
