@@ -1,0 +1,12 @@
+body {
+	margin: 0px;
+
+}
+
+.tag{
+	background: url("award.png");
+	height: 105px;
+	width: 69px;
+	position:fixed;
+	
+}
