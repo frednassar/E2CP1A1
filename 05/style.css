@@ -1,0 +1,21 @@
+
+img {
+    position: relative;
+    left: 600px;
+    top: 50px;
+    z-index: 1;
+
+
+
+}
+.oferta {
+	background: url("imgs/oferta.jpg") no-repeat center top ;
+	width: 300px;
+    height: 300px;
+    right: 600px;
+    top: 22px;
+    left: 556px;
+    text-align: center;
+    position: absolute;
+
+}
